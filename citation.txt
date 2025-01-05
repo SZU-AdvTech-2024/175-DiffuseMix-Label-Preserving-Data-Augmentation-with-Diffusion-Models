@@ -1,0 +1,7 @@
+@inproceedings{REPO175,
+    author = "Islam, Khawar and Zaheer, Muhammad Zaigham and Mahmood, Arif and Nandakumar, Karthik",
+    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    pages = "27621--27630",
+    title = "{DiffuseMix: Label-Preserving Data Augmentation with Diffusion Models}",
+    year = "2024"
+}
