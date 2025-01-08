@@ -1,0 +1,2 @@
+本课程作业参考DiffuseMix和BSR方法，对如何进行更好的对抗样本生成进行了实验学习。框架中的diffusemix和fractal，fractal2分别对应仅仅使用分形融合、引入块旋转、多重块旋转的三个方法，框架使用方法详见Transferattack。
+
